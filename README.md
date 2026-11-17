@@ -6,7 +6,7 @@
 
 **Update Shelf 0.9.17 (build 157)** for Apple silicon Macs running macOS 14 or later. Free download; [Support development via PayPal](https://www.paypal.com/ncp/payment/VRVYW4BB3CH3L) is optional.
 
-[Download page](https://webservices-org.github.io/update-shelf-releases/) · [Release notes](https://github.com/WEBServices-ORG/update-shelf-releases/releases/tag/v0.9.17-build157)
+[Download page](https://webservices-org.github.io/update-shelf/) · [Release notes](https://github.com/WEBServices-ORG/update-shelf/releases/tag/v0.9.17-build157)
 
 New in 0.9.17: Stop scanning now sits beside Check for updates. It prevents further checks after the current bounded command finishes, keeps previous completed results, and marks the interrupted scan incomplete. Launch app and Re-scan remain side by side. The older three-card layout and guarded uv pin correction are retained.
 
@@ -41,7 +41,7 @@ Not every Mac app or plug-in is covered. An update candidate is not necessarily 
 
 ## Install
 
-[Download Update-Shelf-0.9.17-Apple-Silicon.dmg](https://github.com/WEBServices-ORG/update-shelf-releases/releases/download/v0.9.17-build157/Update-Shelf-0.9.17-Apple-Silicon.dmg), open it, and drag Update Shelf into Applications.
+[Download Update-Shelf-0.9.17-Apple-Silicon.dmg](https://github.com/WEBServices-ORG/update-shelf/releases/download/v0.9.17-build157/Update-Shelf-0.9.17-Apple-Silicon.dmg), open it, and drag Update Shelf into Applications.
 
 DMG SHA-256: `88dca1700b91a5df95f1cef10f572016b78fbc9e8ec7bd0e7ee72ae6d840edbe`
 
